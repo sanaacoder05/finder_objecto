@@ -1,0 +1,27 @@
+
+.heading
+{
+color:bisque;
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 38px;
+color: royalblue;
+font-family: cursive;
+box-shadow:ivory 15px;
+}
+
+body{
+   box-shadow:cornflowerblue 15px;
+
+      background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    }
+
+
+    h1,h3{
+      color:aliceblue;
+    }
